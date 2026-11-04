@@ -26,7 +26,7 @@ Toegankelijkheid (WCAG 2.1 AA als doel), privacy (geen trackingcookies, locatieg
 - Vitest, Testing Library en vitest-axe (toegankelijkheidstests)
 - Productie: statische build achter nginx (`Dockerfile`, `nginx.conf`, `security-headers.conf`)
 
-Het portaal praat met de API van Het Levend Monument (`/api/v1/{tenant}/foundation/...`). Die backend is geen onderdeel van deze repository.
+Het portaal praat met de API van Het Levend Monument (`/api/v1/{tenant}/foundation/...`). De backend staat in een aparte repository: [hetlevendmonument-backend](https://github.com/RakeshRamkhelawan/hetlevendmonument-backend) (Business Source License 1.1).
 
 ## Lokaal draaien
 
