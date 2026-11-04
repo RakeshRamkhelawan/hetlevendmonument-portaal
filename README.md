@@ -42,7 +42,7 @@ Bij het bouwen kunnen `VITE_HCAPTCHA_SITE_KEY` (de publieke sitekey) en `VITE_EN
 ## Licentie en rechten
 
 - **Broncode:** MIT-licentie, zie [LICENSE](LICENSE). Copyright SanskritiSetu.org.
-- **Inhoud en merk:** de naam en het beeldmerk van Het Levend Monument, de foto's in `public/` en alle verhalen en teksten op het platform zijn eigendom van Stichting Ketikotivlaardingen.NL of van de makers, en vallen **niet** onder de MIT-licentie. Zie [NOTICE](NOTICE).
+- **Inhoud en merk:** de naam en het beeldmerk van Het Levend Monument, de afbeeldingen in `public/` (met AI gegenereerde illustraties, geen historische foto's) en alle verhalen en teksten op het platform zijn eigendom van Stichting Ketikotivlaardingen.NL of van de makers, en vallen **niet** onder de MIT-licentie. Zie [NOTICE](NOTICE).
 
 ## Bijdragen en contact
 
